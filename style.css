@@ -1,0 +1,27 @@
+body
+{
+    background-color: wheat;
+}
+
+div
+{
+    display: flex;
+    align-items: center;
+    padding: 5%;
+    margin: 5px;    
+    
+}
+
+.divt
+{
+    border: 1px solid black;
+    background-color: white;
+    /* background-color: red; */  
+}  
+
+button
+{
+    border-radius: 20%;
+    background-color: coral;
+    margin :auto;
+}
