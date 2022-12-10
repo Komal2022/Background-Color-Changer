@@ -6,6 +6,7 @@ var ab =0;
 console.log(ab);
 
 //var but_arr = document.getElementsByClassName("buttons");
+//hello world!
 
 function func1()
 {
