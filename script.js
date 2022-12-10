@@ -16,6 +16,8 @@ function func1()
     i=0;
     if(ab==3)
     ab=0;
+    console.log('i',i);
+    console.log('ab',ab);
 }
 
 
