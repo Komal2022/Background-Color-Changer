@@ -5,7 +5,8 @@ var div_arr = document.getElementsByClassName("divt");
 var ab =0;
 console.log(ab);
 
-var but_arr = document.getElementsByClassName("buttons");
+//var but_arr = document.getElementsByClassName("buttons");
+//hello world!
 
 function func1()
 {
